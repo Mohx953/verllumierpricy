@@ -18,7 +18,7 @@ function App() {
     {/* <BackgroundGradientAnimationDemo/> */}
     <ImagesSliderDemo/>
     <ThreeDMarqueeDemo/>
-    <SquigglyTextDemo/>
+    {/* <SquigglyTextDemo/> */}
     </>
   )
 }
