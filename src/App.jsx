@@ -16,9 +16,10 @@ function App() {
   return (
     <>
     {/* <BackgroundGradientAnimationDemo/> */}
-    <ImagesSliderDemo/>
-    <ThreeDMarqueeDemo/>
+    {/* <ImagesSliderDemo/> */}
+    {/* <ThreeDMarqueeDemo/> */}
     {/* <SquigglyTextDemo/> */}
+    <BackgroundGradientAnimationDemo/>
     </>
   )
 }
